@@ -1,0 +1,191 @@
+.container{
+    margin:0 auto;
+
+}
+.search-panel{
+    position: relative;
+    top: 100px;
+    bottom:40px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:0 auto;
+    box-sizing: border-box;
+
+
+}
+
+.search-input{
+    display:flex;
+}
+.search-block{
+    width: 700px;
+    background-color: #fff;
+    height: 65px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    color:#000;
+}
+
+.search-submit{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 67px;
+    border: none;
+
+    outline: none;
+    background-image: url('./icons/search.png');
+    background-repeat: no-repeat;
+    background-color: #fff;
+    background-position: 20px 20px;
+    border-radius:5px 0 0 5px;
+}
+
+.select-city{
+    margin-left: 1px;
+}
+
+.select-city-btn{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    background-color: #fff;
+    height: 67px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    color: #5a5a5a;
+    background-image: url('./icons/place.png');
+    background-repeat: no-repeat;
+    background-position: 20px 20px;
+}
+
+.select-city-btn[value]{
+    font-weight: 700;
+}
+
+.search-btn-block{
+    margin-left: 1px;
+}
+.search-btn{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 160px;
+    background-color: #fff;
+    height: 67px;
+    border: none;
+    outline: none;
+    color:#000;
+    font-size: 16px;
+    background-image: url('./icons/search.png');
+    background-repeat: no-repeat;
+    background-position: 90% 20px;
+    transition: all 0.4ms;
+    border-radius:0 5px 5px 0;
+}
+
+.search-btn[value]{
+    font-weight: 700;
+}
+
+
+.search-btn:hover{
+    color:#fff;
+    background: none;
+    background-color: #002f34;
+    transition: all 0.4ms;
+}
+
+
+
+.city-list{
+    width: 100%;
+    padding: 10px;
+    box-sizing:border-box;
+    box-shadow: 0 1px 6px 0 #969696;
+    border-radius: 5px;
+    background-color: #fff;
+    position:absolute;
+    top: 75px;
+    z-index: 40;
+}
+
+.city-list h3:hover{
+
+    cursor:pointer;
+    text-decoration: underline;
+}
+
+.city-list ul{
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 10px;
+}
+.city-list ul div{
+    width: 290px;
+    border-right: 1px solid black;
+}
+.city-list ul li{
+    list-style: none;
+    font-size: 18px;
+    color:#5a5a5a ;
+    margin: 5px 0;
+    text-align: left;
+}
+.city-list ul li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3px;
+
+}
+
+.city-list ul li:hover{
+    background-color: #002e33;
+    cursor: pointer;
+    color: #fff;
+}
+
+
+.city-list ul div:last-child{
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

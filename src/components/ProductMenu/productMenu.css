@@ -1,0 +1,145 @@
+
+.background-product{
+    width: 100%;
+    background-color: #fff;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-top: 140px;
+    transition:all 0.7s;
+}
+
+.wrapper{
+    position: relative;
+}
+
+.product-menu{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    transition:all 1s ease;
+
+}
+
+.product-menu h1{
+    font-size: 40px;
+}
+
+
+.select-menu{
+    width: 100%;
+    padding: 10px;
+    box-sizing:border-box;
+    height: 250px;
+    box-shadow: 0 1px 6px 0 #969696;
+    border-radius: 5px;
+    background-color: #fff;
+    margin: 20px auto;
+
+
+}
+
+
+
+.select-menu h3:hover{
+    cursor:pointer;
+    text-decoration: underline;
+}
+
+.select-menu ul{
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 10px;
+}
+.select-menu ul div{
+    width: 290px;
+    border-right: 1px solid black;
+}
+.select-menu ul li{
+    list-style: none;
+    font-size: 18px;
+    color:#5a5a5a ;
+    margin: 5px 0;
+    text-align: left;
+}
+.select-menu ul li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3px;
+
+}
+
+.select-menu ul li:hover{
+    background-color: #002e33;
+    cursor: pointer;
+    color: #fff;
+}
+
+
+.select-menu ul div:last-child{
+    border: none;
+}
+
+
+
+
+.menu_one{
+    width: 90px;
+    height: 90px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+
+}
+
+
+.menu_one img{
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+}
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.nameProduct{
+    cursor:pointer;
+    padding: 5px;
+    font-size: 16px;
+}
+.nameProduct:hover{
+    color: #fff;
+    background-color: #002f34;
+}
+
+.menu_one:hover ~ .nameProduct{
+
+    color: #fff;
+    background-color: #002f34;
+}
+
+
+.menu_list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.categories_menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
