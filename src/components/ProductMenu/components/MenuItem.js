@@ -9,7 +9,7 @@ function ShowMenuItem({categoriesName, name_1,name_2,name_3,name_4,
     return (
         <div className="select-menu">
             <div className={"showMenu"}>
-                <h3><span><i className="fas fa-chevron-right" /></span> Просмотреть все объявления в &emsp;
+                <h3><span><i className="fas fa-chevron-right" /></span> Просмотреть все объявления  &emsp;
                     <span style={{color: "#abb3b6"}}>{categoriesName}</span>
                 </h3>
                 <hr/>
