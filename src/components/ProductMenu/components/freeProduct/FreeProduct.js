@@ -18,7 +18,7 @@ const FreeProduct = () => {
     return(
         <div>
             {freeProduct.map(product => {
-                return <ProductList img={product.img} name={product.name} location={product.location} data={product.data} />
+                return <ProductList key={product.id} img={product.img} name={product.name} location={product.location} data={product.data} />
             })}
         </div>
     )

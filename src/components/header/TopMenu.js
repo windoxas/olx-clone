@@ -16,7 +16,8 @@ const TopMenu = () => {
                 <div className="block-right">
                     <div className="lang-olx">
                         <span className={"lang-uz"}>O'Z</span>
-                        <div></div>
+                        <div>
+                        </div>
                         <span className={"lang-ru"}>РУ</span>
                     </div>
                     <div className="favorite">

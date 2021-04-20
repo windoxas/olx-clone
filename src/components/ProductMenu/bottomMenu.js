@@ -142,11 +142,14 @@ const BottomMenu = () => {
                     </NavLink>
                 </div>
                 <div className={"row "}>
-                    <div style={{backgroundColor:"#1cddd5"}}   className="menu_one">
-                        <img src={Exchange} alt={"Exchange"}/>
-                    </div>
-                    <h3   className={"nameProduct"}>Обмен</h3>
+                        <NavLink to={"exchange"}>
+                        <div style={{backgroundColor:"#1cddd5"}}   className="menu_one">
+                            <img src={Exchange} alt={"Exchange"}/>
+                        </div>
+                        <h3   className={"nameProduct"}>Обмен</h3>
+                    </NavLink>
                 </div>
+
             </div>
 
             <div className="click_menu">
