@@ -1,0 +1,109 @@
+{
+  "FREE": [
+    {
+      "id": 1,
+      "img":"https://www.dogstrust.org.uk/help-advice/_images/164742v800_puppy-1.jpg",
+      "name": "Отдам в хороший руки",
+      "location": "Ташкент",
+      "data": "Вчера 8:25"
+    },
+    {
+      "id": 2,
+      "img":"https://www.rd.com/wp-content/uploads/2019/05/American-shorthair-cat-scaled.jpg",
+      "name": "Такая милашка толка в хороший руки",
+      "location": "Сирдарё",
+      "data": "14 апрель 14:02"
+    },
+    {
+      "id":  3,
+      "img":"https://www.mombooks.com/wp-content/uploads/82186844_707524933116033_2633999068329762387_n-690x690-1.jpg",
+      "name": "хороший книга ",
+      "location": "Сурхандарё",
+      "data": "10 апрель 10:40"
+    },
+    {
+      "id":  4,
+      "img":"https://jazwaresv2.s3.amazonaws.com/media/POKEMON_PIKACHU_OK.png",
+      "name": "игрушка для детей",
+      "location": "Ташкент",
+      "data": "сегодня  4:40"
+    },
+    {
+      "id":  5,
+      "img":"https://ecologia.life/wp-content/uploads/2019/03/oblomki-betonnyh-plit.jpg",
+      "name": "бетон не нужны мусор",
+      "location": "Ташкент",
+      "data": "вчера 4:40"
+    },
+    {
+      "id":  6,
+      "img":"https://www.cdc.gov/healthypets/images/pets/angry-dog.jpg",
+      "name": "Отдам даром",
+      "location": "Самарканд",
+      "data": "сегодня 7:30"
+    },
+    {
+      "id":  7,
+      "img":"https://cdn.britannica.com/25/172925-050-DC7E2298/black-cat-back.jpg",
+      "name": "толка в хороший руки",
+      "location": "Ташкент",
+      "data": "5 апрель 18:27"
+    },
+    {
+      "id":  8,
+      "img":"https://static.librebook.me/uploads/pics/02/32/577.jpg",
+      "name": "хороший книга жанр ужастик",
+      "location": "Хоразим",
+      "data": "02 апрель 00:40"
+    },
+    {
+      "id":  9,
+      "img":"https://arzuw.news/wp-content/uploads/2020/12/toys.jpg",
+      "name": "Набор игрушка",
+      "location": "Ташкент",
+      "data": "вчера  18:40"
+    },
+    {
+      "id":  10,
+      "img":"https://img02.flagma.ru/photo/stroitelny-musor-bity-kirpich-koloty-beton-3531937_medium.jpg",
+      "name": "кирпич отходный ",
+      "location": "Ташкент",
+      "data": "16 апреля 8:40"
+    },
+    {
+      "id":  11,
+      "img":"https://www.shelterluv.com/sites/default/files/animal_pics/1954/2020/08/20/13/20200820130400.png",
+      "name": "Итнинг  зури ",
+      "location": "Наманган",
+      "data": "сегодня 13:25"
+    },
+    {
+      "id":  12,
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReRqYTwhKXSb0a-L-hL8TsBcN2Af6zMG-uYg&usqp=CAU",
+      "name": "кимга керак булса обкетоворсин",
+      "location": "Андижан",
+      "data": "20 апрель 14:02"
+    },
+    {
+      "id":  13,
+      "img":"https://www.publicdomainpictures.net/pictures/10000/velka/old-books-11281939505Msrn.jpg",
+      "name": "ужастик жаниридаги китоблар",
+      "location": "Фергана",
+      "data": "18 апрель 12:55"
+    },
+    {
+      "id":  14,
+      "img":"https://target.scene7.com/is/image/Target/GUEST_e82ad916-16ae-48e5-b13b-73e4a0b9b682?wid=488&hei=488&fmt=pjpeg",
+      "name": "игрушка для детей лего",
+      "location": "Ташкент",
+      "data": "сегодня  22:40"
+    },
+    {
+      "id":  15,
+      "img":"https://28.img.avito.st/640x480/5721076228.jpg",
+      "name": "бетон и кирпич хлам",
+      "location": "Ташкент",
+      "data": "12 апреля 4:40"
+    }
+  ]
+}
