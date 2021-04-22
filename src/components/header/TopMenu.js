@@ -1,4 +1,5 @@
 import React, {useContext} from 'react'
+import {NavLink} from 'react-router-dom'
 import './topMenu.css'
 import  {Context} from "../context";
 
@@ -8,11 +9,13 @@ const TopMenu = () => {
     return(
         <div className={"top-menu"}>
             <div className="container">
-                <div className="logo">
-                    <span className={"alph-o"}>O</span>
-                    <span className={"alph-l"}>l</span>
-                    <span className={"alph-x"}>x</span>
-                </div>
+                <NavLink to="/">
+                    <div className="logo">
+                        <span className={"alph-o"}>O</span>
+                        <span className={"alph-l"}>l</span>
+                        <span className={"alph-x"}>x</span>
+                    </div>
+                </NavLink>
                 <div className="block-right">
                     <div className="lang-olx">
                         <span className={"lang-uz"}>O'Z</span>
