@@ -11,6 +11,7 @@ const ProductList = ({img, name, location, data}) => {
 
     function FavoriteProduct() {
         favorite ? setFavorite(false) : setFavorite(true)
+        favorite ? setView('в избранные  ') : setView("удалить из избранных")
         favorite ? value.countDown() : value.countUp()
     }
 

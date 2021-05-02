@@ -18,7 +18,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "server": "json-server ./scr/components/server/productDB.json --port 3004"
+    "server": "json-server ./src/components/server/productDB.json --port 3004"
   },
   "eslintConfig": {
     "extends": [

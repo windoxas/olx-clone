@@ -43,6 +43,7 @@
     justify-content: space-between;
     align-items: center;
     box-sizing: border-box;
+    position: relative;
 
 }
 
@@ -56,4 +57,18 @@
 .price_favorite i {
     font-size: 22px;
     color: #5a5a5a;
+}
+
+.showText{
+
+    background-color: #256aec;
+    border-radius:5px;
+    color: #fff;
+    position: absolute;
+    font-size: 16px;
+    text-align: center;
+    z-index: 20;
+    top: -40px;
+
+
 }
